@@ -55,7 +55,7 @@ const About: React.FC = () => {
               <div className="relative">
                 <div className="absolute inset-0 rounded-full bg-gradient-to-br from-blue-500 to-purple-500 opacity-20"></div>
                 <img 
-                  src="/photo_yvan.jpeg" 
+                  src="./photo_yvan.jpeg" 
                   alt="About me" 
                   className="relative w-72 h-72 md:w-96 md:h-96 rounded-full mx-auto object-cover border-8 border-white shadow-2xl hover:scale-105 transition-transform duration-500"
                 />
