@@ -133,7 +133,7 @@ const About: React.FC = () => {
 
   {/* NOUVEAU BOUTON CV */}
   <a
-    href="/CV_kenmegne_kamdem_yvan_junior.pdf"
+    href="./CV_kenmegne_kamdem_yvan_junior.pdf"
     download="yvan_junior_CV.pdf"
     className="group inline-flex items-center gap-3 px-8 py-4 bg-white border-2 border-gray-200 text-gray-800 font-semibold rounded-full shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105 hover:border-blue-500 hover:text-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500/50"
   >
